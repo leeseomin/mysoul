@@ -5,7 +5,7 @@
 ### :star: Must Watch it in dark mode !!
  <br/><br/>
 
-### My Soul
+### My Soul (Block 23)
 
  <img src="https://github.com/leeseomin/block/blob/main/block/block23x.png" width="1800">    
  
@@ -14,7 +14,7 @@
 
 
 
-### Broken my soul
+### Broken my soul (Block 21)
 
  <img src="https://raw.githubusercontent.com/leeseomin/block/main/block/block21x.png" width="1800">    
  
