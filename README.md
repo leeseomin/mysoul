@@ -2,7 +2,7 @@
 #  "My Soul" art project
 <br/>
 
-### :star: Must Watch it in dark mode !!
+### :star: Must Watch it in dark(night) mode !!
  <br/><br/>
 
 ### My Soul (Block 23)
