@@ -11,6 +11,14 @@
  
  <br/><br/>
 
+### My Soul 6
+
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/soul6.png" width="1800">    
+ 
+ <br/><br/>
+
+
+
 
 
 
