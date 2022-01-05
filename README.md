@@ -9,7 +9,7 @@
 
 ### My Soul 2
 
- <img src="https://github.com/leeseomin/block/blob/main/block/2.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/2.png" width="1800">    
  
  <br/><br/>
  
