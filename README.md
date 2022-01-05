@@ -1,6 +1,6 @@
 
 #  "My Soul" art project 
-#### --- At some point, a snapshot of my soul
+#### -At some point, a snapshot of my soul
 
 <br/>
 
