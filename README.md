@@ -5,6 +5,9 @@
 ### :star: Must Watch it in dark(night) mode !!
  <br/><br/>
 
+### NFT marketplaces
+
+https://foundation.app/collection/mysoul
 
 
 ### My Soul 2
