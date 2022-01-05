@@ -5,6 +5,15 @@
 ### :star: Must Watch it in dark(night) mode !!
  <br/><br/>
 
+
+
+### My Soul 2
+
+ <img src="https://github.com/leeseomin/block/blob/main/block/2.png" width="1800">    
+ 
+ <br/><br/>
+ 
+
 ### My Soul (Block 23)
 
  <img src="https://github.com/leeseomin/block/blob/main/block/block23x.png" width="1800">    
