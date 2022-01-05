@@ -1,5 +1,5 @@
 
-#  "My Soul" art project : At some point, a snapshot of my soul
+#  "My Soul" art project  (At some point, a snapshot of my soul)
 <br/>
 
 ### :star: Must Watch it in dark(night) mode !!
