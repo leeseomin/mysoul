@@ -7,6 +7,7 @@
 
 ### NFT marketplaces
 
+https://opensea.io/collection/mysoulproject
 
 https://foundation.app/collection/mysoul
 
