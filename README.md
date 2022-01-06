@@ -54,6 +54,18 @@ https://foundation.app/collection/mysoul
  <img src="https://github.com/leeseomin/mysoul/blob/main/soul/12h.png" width="1800">    
  
  <br/><br/>
+
+
+ ### My Soul 14
+
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/14h.png" width="1800">    
+ 
+ <br/><br/>
+ 
+ 
+ 
+ 
+ 
  
  
  
