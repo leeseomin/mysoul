@@ -49,6 +49,14 @@ https://foundation.app/collection/mysoul
  <br/><br/>
  
  
+ ### My Soul 12
+
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/12h.png" width="1800">    
+ 
+ <br/><br/>
+ 
+ 
+ 
 
 ### My Soul (Block 23)
 
