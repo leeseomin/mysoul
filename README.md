@@ -4,8 +4,6 @@
 
 <br/>
 
-### :star: Must Watch it in dark(night) mode !!
- <br/><br/>
 
 ### NFT marketplaces
 
