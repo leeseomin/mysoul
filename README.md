@@ -68,11 +68,20 @@ https://foundation.app/collection/mysoul
  <img src="https://github.com/leeseomin/mysoul/blob/main/soul/16h.png" width="1800">    
  
  <br/><br/>
+
+
+### My Soul 17
+
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/17.png" width="1800">    
+ 
+ <br/><br/>
  
  
  
  
  
+ 
+  <br/><br/>
  
 
 ### My Soul (Block 23)
