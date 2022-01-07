@@ -76,6 +76,12 @@ https://foundation.app/collection/mysoul
  
  
  
+### My Soul 20
+
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/20h.png" width="1800">    
+ 
+ <br/><br/>
+ 
  
  
  
