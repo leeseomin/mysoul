@@ -63,7 +63,7 @@ https://foundation.app/collection/mysoul
  
 ### My Soul 16
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/16.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/16x.png" width="1800">    
  
  <br/><br/>
 
