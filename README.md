@@ -89,6 +89,22 @@ https://foundation.app/collection/mysoul
  <br/><br/>
  
  
+ ### My Soul 22
+
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/22h.png" width="1800">    
+ 
+ <br/><br/>
+ 
+ 
+ ### My Soul 23
+
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/23h.png" width="1800">    
+ 
+ <br/><br/>
+ 
+ 
+ 
+ 
  ### My Soul 24
 
  <img src="https://github.com/leeseomin/mysoul/blob/main/soul/24h.png" width="1800">    
