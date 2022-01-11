@@ -140,11 +140,22 @@ https://foundation.app/collection/mysoul
  
  <br/><br/>
  
-  ### My Soul 29
+ ### My Soul 29
 
  <img src="https://github.com/leeseomin/mysoul/blob/main/soul/29h.png" width="1800">    
  
  <br/><br/>
+ 
+ 
+ 
+### My Soul 30
+
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/30.png" width="1800">    
+ 
+ <br/><br/>
+ 
+ 
+ 
 
  ### My Soul 32
 
