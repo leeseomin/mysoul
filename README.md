@@ -239,6 +239,13 @@ https://foundation.app/collection/mysoul
  <br/><br/>
  
  
+ ### My Soul 49
+
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/49x.png" width="1800">    
+ 
+ <br/><br/>
+ 
+ 
  
  
  
