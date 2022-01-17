@@ -286,7 +286,11 @@ https://foundation.app/collection/mysoul
  
  <br/><br/>
  
+  ### My Soul 56
+
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/56h.png" width="1800">    
  
+ <br/><br/>
  
  
  
