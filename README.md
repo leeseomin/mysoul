@@ -215,7 +215,7 @@ https://foundation.app/collection/mysoul
  
  ### My Soul 43
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/43h.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/43x.png" width="1800">    
  
  <br/><br/>
  
