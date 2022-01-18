@@ -194,7 +194,7 @@ https://foundation.app/collection/mysoul
 
  ### My Soul 39
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/39h.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/39x.png" width="1800">    
  
  <br/><br/>
  
