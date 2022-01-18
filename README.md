@@ -49,7 +49,7 @@ https://foundation.app/collection/mysoul
  
  ### My Soul 12
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/12x.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/12xx.png" width="1800">    
  
  <br/><br/>
 
