@@ -78,20 +78,20 @@ https://foundation.app/collection/mysoul
  
 ### My Soul 20
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/20h.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/20x.png" width="1800">    
  
  <br/><br/>
 
 ### My Soul 21
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/21h.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/21x.png" width="1800">    
  
  <br/><br/>
  
  
  ### My Soul 22
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/22h.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/22x.png" width="1800">    
  
  <br/><br/>
  
