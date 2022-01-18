@@ -241,7 +241,7 @@ https://foundation.app/collection/mysoul
  
  ### My Soul 47
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/47h.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/47x.png" width="1800">    
  
  <br/><br/>
  
