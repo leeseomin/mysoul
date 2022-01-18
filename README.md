@@ -288,7 +288,7 @@ https://foundation.app/collection/mysoul
  
   ### My Soul 56
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/56h.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/56x.png" width="1800">    
  
  <br/><br/>
  
