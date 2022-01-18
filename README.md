@@ -209,7 +209,7 @@ https://foundation.app/collection/mysoul
 
 ### My Soul 42
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/42h.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/42x.png" width="1800">    
  
  <br/><br/>
  
