@@ -34,7 +34,7 @@ https://foundation.app/collection/mysoul
  
  ### My Soul 10
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/10h.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/10x.png" width="1800">    
  
  <br/><br/>
  
