@@ -128,7 +128,7 @@ https://foundation.app/collection/mysoul
  
  ### My Soul 27
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/27x.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/27xx.png" width="1800">    
  
  <br/><br/>
  
@@ -136,7 +136,7 @@ https://foundation.app/collection/mysoul
  
  ### My Soul 28
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/28.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/28x.png" width="1800">    
  
  <br/><br/>
  
@@ -150,7 +150,7 @@ https://foundation.app/collection/mysoul
  
 ### My Soul 30
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/30.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/30x.png" width="1800">    
  
  <br/><br/>
  
@@ -159,7 +159,7 @@ https://foundation.app/collection/mysoul
 
  ### My Soul 32
 
- <img src="https://github.com/leeseomin/mysoul/blob/main/soul/32h.png" width="1800">    
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/32x.png" width="1800">    
  
  <br/><br/>
  
