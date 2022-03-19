@@ -5,7 +5,7 @@
 <br/>
 
 
-### NFT marketplaces
+### :o: NFT marketplaces  :point_down:
 
 https://opensea.io/collection/mysoulproject
 
