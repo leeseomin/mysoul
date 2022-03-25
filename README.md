@@ -348,6 +348,12 @@ https://foundation.app/collection/mysoul
  
  <br/><br/>
  
+  ### My Soul 63A
+
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/63A.png" width="70%">      
+ 
+ <br/><br/>
+ 
  
   ### My Soul 64
 
