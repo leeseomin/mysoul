@@ -355,9 +355,15 @@ https://foundation.app/collection/mysoul
  <br/><br/>
  
  
-  ### My Soul 64
+### My Soul 64
 
  <img src="https://github.com/leeseomin/mysoul/blob/main/soul/64.png" width="70%">     
+ 
+ <br/><br/>
+ 
+ ### My Soul 64A
+
+ <img src="https://github.com/leeseomin/mysoul/blob/main/soul/64A.png" width="70%">     
  
  <br/><br/>
  
